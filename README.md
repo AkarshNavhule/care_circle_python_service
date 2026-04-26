@@ -39,7 +39,7 @@ Care_Circle_Service/
 ### 1. Clone & enter the directory
 
 ```bash
-git clone <repo-url>
+git clone -b <branch_name> <repository_url>
 cd Care_Circle_Service
 ```
 
