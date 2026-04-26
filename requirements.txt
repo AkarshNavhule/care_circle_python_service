@@ -5,3 +5,8 @@ pdfplumber
 PyMuPDF
 httpx
 python-dotenv
+pydantic-settings
+supabase
+boto3
+google-cloud-vision
+Pillow
